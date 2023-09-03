@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-app.git/static/css/main.13bd0fca.css",
+    "main.js": "/weather-app.git/static/js/main.db1ac44b.js",
+    "static/js/787.d9312eb8.chunk.js": "/weather-app.git/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/weather-app.git/index.html",
+    "main.13bd0fca.css.map": "/weather-app.git/static/css/main.13bd0fca.css.map",
+    "main.db1ac44b.js.map": "/weather-app.git/static/js/main.db1ac44b.js.map",
+    "787.d9312eb8.chunk.js.map": "/weather-app.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13bd0fca.css",
+    "static/js/main.db1ac44b.js"
+  ]
+}
